@@ -1,0 +1,11 @@
+body {
+  font-family: verdana;
+}
+
+ .flashy {
+   font-style: italic;
+   color: orange;
+ }
+p {
+  font-weight: 700;
+}
